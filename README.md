@@ -23,12 +23,12 @@ A modern relationship loyalty assessment tool built with React and TypeScript.
 
 1. Clone the repository:
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/yashokuu/loyaltyTest
 ```
 
 2. Navigate to the project directory:
 ```sh
-cd loyalty-questionnaire
+cd loyaltyTest
 ```
 
 3. Install dependencies:
